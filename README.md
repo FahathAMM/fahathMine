@@ -20,6 +20,12 @@
   </a>
 </p>
 
+<!-- <p align="left">
+  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+</p> -->
+
 
 ---
 
@@ -33,6 +39,20 @@
 - 💬 Let's connect! **fahathammex90@gmail.com**
 
 ---
+
+## 🏆 GitHub Trophies
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FahathAMM&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=FahathAMM&theme=dark&hide_border=true&border_radius=10" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahathAMM&show_icons=true&theme=dark&hide_border=true&border_radius=10" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahathAMM&layout=compact&theme=dark&hide_border=true&border_radius=10" />
+</p>
 
 ## 🎓 Education
 
@@ -82,6 +102,7 @@
 | **E-Commerce** | Admin panel & payment for online shopping | [GitHub](https://github.com/FahathAMM/e-commerce) |
 | **Digital Resume** | Shareable online resume app | [GitHub](https://github.com/FahathAMM/digitel-resume) |
 | **SLIATE Website** | Info portal for college students | [Website](http://www.atisam.edu.lk/) |
+| **Xtremeguard** | Business site for cleaning service in Dubai | [Website](https://xtremeguard.org/) |
 | **Enscone Cleaning** | Business site for cleaning service in Dubai | [Website](https://enscone.com/) |
 
 ---
@@ -108,20 +129,12 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=FahathAMM&theme=dark&hide_border=true&border_radius=10" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=FahathAMM&show_icons=true&theme=dark&hide_border=true&border_radius=10" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahathAMM&layout=compact&theme=dark&hide_border=true&border_radius=10" />
-</p>
 
 ---
 
 ## 📝 Quote
 
-> “I do hereby declare that the above-mentioned facts are true and correct to the best of my knowledge.”  
+> “I don’t just build web apps — I transform ideas into dynamic, user-centered experiences through the art of code.”  
 > — *Mohamed Fahath*
 
