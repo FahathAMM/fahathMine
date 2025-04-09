@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fahath</h1>
-<h3 align="center">A Passionate Full Stack Engineer</h3>
+
+<!-- # Hey, I'm Mohamed Fahath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> -->
+        
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" style="display:inline-block; animation: wave 2s infinite;" alt="👋" />, I'm Mohamed Fahath</h1>
+
+<h3 align="left">Full Stack Engineer with a Focus on Scalable Web Applications</h3>
+
+<p align="left">
+  <a href="https://github.com/FahathAMM">
+    <img src="https://img.shields.io/github/followers/FahathAMM?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=FahathAMM">
+    <img src="https://komarev.com/ghpvc/?username=FahathAMM&color=green" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/fahath-mohamed-3ab47416b/" target="_blank">
+    <img src="https://img.shields.io/badge/-Mohamed%20Fahath-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/fahath_9611/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 
 ---
 
